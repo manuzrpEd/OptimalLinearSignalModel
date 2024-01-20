@@ -2,7 +2,7 @@ matplotlib
 numpy
 pandas
 pandas_ta
+seaborn
 scikit-learn
 scipy
-wittgenstein
 yfinance 
